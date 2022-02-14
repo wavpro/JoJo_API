@@ -1,0 +1,18 @@
+{
+  "name": "jojoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-rate-limit": "^5.5.1",
+    "puppeteer": "^13.3.1"
+  }
+}
